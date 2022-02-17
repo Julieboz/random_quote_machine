@@ -1,0 +1,15 @@
+body {
+  background-color: #FF6347;
+  color: #FF6347
+}
+
+#text, #author {
+  font-family: 'Lato', sans-serif;
+}
+
+.card{
+  background-color: #F0FFF0
+}
+.card-header, .buttons {
+  font-family: 'Staatliches', cursive;
+}
